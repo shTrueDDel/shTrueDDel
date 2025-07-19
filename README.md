@@ -1,4 +1,4 @@
-# shTrueDDel (Штрудель)
+А # shTrueDDel (Штрудель)
 [![Статистика shTrueDDel](https://github-readme-stats.vercel.app/api?username=shTrueDDel&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
@@ -8,3 +8,6 @@
 ---
 
 [![Streak shTrueDDel](https://github-readme-streak-stats.herokuapp.com/?user=shTrueDDel&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+---
+
