@@ -11,10 +11,6 @@
 
 ---
 
-https://github-readme-activity-graph.vercel.app/graph?username=shTrueDDel&theme=react-dark&hide_border=true
-
----
-
 ### **Языки**  
 **Backend:**  
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
@@ -32,3 +28,24 @@ https://github-readme-activity-graph.vercel.app/graph?username=shTrueDDel&theme=
 [![Email](https://img.shields.io/badge/-xeosscript@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:xeosscript@gmail.com)  
 [![Telegram](https://img.shields.io/badge/-@shTrueDDel-26A5E4?logo=telegram&logoColor=white)](https://t.me/shTrueDDel)  
 [![Discord](https://img.shields.io/badge/-gdshtruedel-5865F2?logo=discord&logoColor=white)](https://discord.com/users/gdshtruedel)  
+
+---
+
+# Текущий проект
+## Сейчас я пишу плагин для Nukkit "DoseCraft"
+
+### Что уже сделано:
+
+- Хитрый еврей (крадёт вещи из сундука, подробнее можно будет узнать в будущем  репозитории DoseCraft) 
+
+- Пердёж (без комментариев) 
+
+- Две команды (и ещё над одной я потею прямо сейчас) 
+
+- Кастомное уведомление о заходе на сервер (вэлыколэпнэ) 
+
+- Банворды имён предметов (список будет в будущем репозитории) 
+
+- Рандом (бесячий, и полезный) 
+
+- Ненависть к насилию (позже поймёте)
