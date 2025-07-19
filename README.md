@@ -12,7 +12,7 @@
 
 ---
 
-# #**Языки**  
+# **Языки**  
 
 ## **Backend:**  
 ##### JAVA
@@ -26,6 +26,8 @@
 
 
 ---
+
+# Контакты
 
 ### <img src="https://i.imgur.com/9X0w0s.gif" width="25px"> **Как связаться**  
 [![Email](https://img.shields.io/badge/-xeosscript@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:xeosscript@gmail.com)  
