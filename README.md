@@ -1,33 +1,38 @@
 # shTrueDDel
-[![Статистика shTrueDDel](https://github-readme-stats.vercel.app/api?username=shTrueDDel&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Статистика shTrueDDel](https://github-readme-stats.vercel.app/api?username=shTrueDDel&show_icons=true&theme=dark&title_color=ff79c6&icon_color=bd93f9&text_color=f8f8f2&bg_color=282a36&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-[![Languages shTrueDDel](https://github-readme-stats.vercel.app/api/top-langs/?username=shTrueDDel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Languages shTrueDDel](https://github-readme-stats.vercel.app/api/top-langs/?username=shTrueDDel&layout=compact&theme=dark&title_color=ff79c6&text_color=f8f8f2&bg_color=282a36&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-[![Streak shTrueDDel](https://github-readme-streak-stats.herokuapp.com/?user=shTrueDDel&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Streak shTrueDDel](https://github-readme-streak-stats.herokuapp.com/?user=shTrueDDel&theme=dark&background=282a36&ring=ff79c6&fire=ff79c6&currStreakNum=f8f8f2&sideNums=f8f8f2&currStreakLabel=f8f8f2&sideLabels=f8f8f2&dates=6272a4&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ---
 
-### **Языки**  
-**Backend:**  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
-![Nukkit](https://img.shields.io/badge/-Nukkit_MOT-4A7C59?logo=minecraft&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)     
+# #**Языки**  
 
-**Frontend:**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)   
+## **Backend:**  
+##### JAVA
+##### JAVASCRIPT
+##### PYTHON
+
+### **Frontend:**  
+
+##### HTML
+##### CSS
+
 
 ---
 
-### 📫 **Как связаться**  
-[![Email](https://img.shields.io/badge/-xeosscript@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:xeosscript@gmail.com)  
-[![Telegram](https://img.shields.io/badge/-@shTrueDDel-26A5E4?logo=telegram&logoColor=white)](https://t.me/shTrueDDel)  
-[![Discord](https://img.shields.io/badge/-gdshtruedel-5865F2?logo=discord&logoColor=white)](https://discord.com/users/gdshtruedel)  
+### <img src="https://i.imgur.com/9X0w0s.gif" width="25px"> **Как связаться**  
+[![Email](https://img.shields.io/badge/-xeosscript@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:xeosscript@gmail.com)  
+
+[![Telegram](https://img.shields.io/badge/-@shTrueDDel-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/shTrueDDel)  
+
+[![Discord](https://img.shields.io/badge/-gdshtruedel-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/gdshtruedel)  
 
 ---
 
@@ -36,16 +41,16 @@
 
 ### Что уже сделано:
 
-- Хитрый еврей (крадёт вещи из сундука, подробнее можно будет узнать в будущем  репозитории DoseCraft) 
+-  **Хитрый еврей** (крадёт вещи из сундука, подробнее можно будет узнать в будущем репозитории DoseCraft) 
 
-- Пердёж (без комментариев) 
+- **Пердёж** (без комментариев) 
 
-- Две команды (и ещё над одной я потею прямо сейчас) 
+- **Две команды** (и ещё над одной я потею прямо сейчас) 
 
-- Кастомное уведомление о заходе на сервер (вэлыколэпнэ) 
+- **Кастомное уведомление о заходе на сервер** (вэлыколэпнэ) 
 
-- Банворды имён предметов (список будет в будущем репозитории) 
+- **Банворды имён предметов (список будет в будущем репозитории) 
 
-- Рандом (бесячий, и полезный) 
+- **Рандом** (бесячий, и полезный) 
 
-- Ненависть к насилию (позже поймёте)
+- **Ненависть к насилию** (позже поймёте)
